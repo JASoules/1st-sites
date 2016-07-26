@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<head>
+  <title>Julie Soules</title>
+  <style>
+    body {
+      text-align: center;
+      background: url("http://orig15.deviantart.net/6c1c/f/2012/171/e/4/sunset_of_minecraft_by_thedman1361-d546l14.png");
+      background-size: cover;
+      background-position: center;
+      color: white;
+      font-family: helvetica;
+    }
+    p {
+      font-size: 22px;
+    }
+    input {
+      border: 0;
+      padding: 10px;
+      font-size: 18px;
+    }
+    input[type="submit"] {
+      background: red;
+      color: white;
+    }
+  </style>
+</head>
+<body>
+  <img src="https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAkIAAAAJDI1YTMxNGM4LTEyZWUtNGZjZC1hMjVkLTAzODUyYTA5MDA2NQ.jpg">
+  <p>Hi! I'm Julie, an aspiring programmer. Say hello!</p>
+  <input type="email" placeholder="Your email">
+  <input type="submit">
+</body>
